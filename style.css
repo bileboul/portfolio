@@ -7,18 +7,18 @@ body {
 .navbar {
   background-color: #0e37d8;
   border-radius: 2px;
-  max-width: 800px;
+  max-width: 1000px;
 }
 
 .navbar a {
-  color: #aaa;
+  color: #bf1b1b;
   display: inline-block;
-  font-size: 15px;
+  font-size: 55px;
   padding: 10px;
   text-decoration: none;
 }
 
 .navbar a:hover {
-  color: #ffffff;
+  color: #d90d0d;
 }
 
